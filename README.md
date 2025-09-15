@@ -1,6 +1,6 @@
 # Sequence Alignment
 
-A suite of two R scripts for performing **global** and **local** sequence alignments using dynamic programming, complete with graphical edit-graph visualizations and console-based alignment printing.
+A suite of two R scripts for performing **global** and **local** sequence alignments using dynamic programming, complete with graphical edit-graph visualizations and console-based alignment printing. 
 
 ---
 
