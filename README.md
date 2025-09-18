@@ -94,10 +94,10 @@ print_gsa(g2$b, g2$vectorV, g2$vectorW, nrow(g2$b), ncol(g2$b), fn = "global_ali
 
 ## Contributing
 
-Bug reports and pull requests are welcome. Please fork the repository, implement your changes, and submit a PR via GitHub.
+Contributions, bug reports, and enhancements are welcome. Please fork the repository, commit your changes, and submit a pull request.
 
 ---
 
 ## License
 
-MIT License — include a copy in your distribution.
+This project is released under the MIT License. Include a copy of the license when distributing.
